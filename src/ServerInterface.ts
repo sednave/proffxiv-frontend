@@ -1,4 +1,4 @@
-const domain = "https://proffxivit-backend.vercel.app"
+const domain = "https://proffxivit-backend.onrender.com/"
 
 export async function GetMostProfitableCrafts() {
     const endpoint = `${domain}/topProfit`;
